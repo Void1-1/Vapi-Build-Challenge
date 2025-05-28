@@ -29,7 +29,7 @@ export default function ChatWindow({
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch("/api/vapi/generate", {
+      const res = await fetch("/api", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ prompt }),
