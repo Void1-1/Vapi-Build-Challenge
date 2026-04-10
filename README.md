@@ -1,12 +1,12 @@
 # Vapi-Build-Challenge
 
-My submission for the **#Buildwithvapi** challenge! 🚀
+My submission for the **#Buildwithvapi** challenge!
 
 I had a lot of fun building this project — hope it's interesting to explore and try out!
 
 ---
 
-## 🧠 Project Description
+## Description
 
 A **Stark-inspired HUD** with a F.R.I.D.A.Y. style voice A.I. 
 Powered by Vapi and Google Generative AI, it can understand voice commands, talk smoothly and hold a conversation, respond in real-time, and create an immersive, Iron Man-like experience.
@@ -14,7 +14,7 @@ Powered by Vapi and Google Generative AI, it can understand voice commands, talk
 
 ---
 
-## 🛠 Getting Started
+## Getting Started
 
 To run the project locally:
 
